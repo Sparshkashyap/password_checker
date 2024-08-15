@@ -58,3 +58,12 @@ body{
     filter: blur(10px);
 }
 
+.button{
+    position: absolute;
+   margin-top: 12rem;
+   margin-right:2rem;
+   padding: 5px 7px;
+   background-color: rgb(47, 44, 44);
+   color:silver;
+   box-shadow: 2px 2px 5px black;   
+}
